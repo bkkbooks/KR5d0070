@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5d0070/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5d0070/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太虛心淵篇
+  date: '2015-08-29 02:03:05.716430'
+  source:
+    repository: kanripo
+    path: KR5d0070
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5d0070_000-YP-C.yaml, hash: 'sha256:bb80b78b2d584d29501ad91ac51ebe0f5a35cb71943fcb0dd510c0379fc527b6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5d0070_000-YP-C.markers.yaml, hash: 'sha256:273f1eeba514541fc03c6e2d627789cd31a68dc43cc0b4f259a802a7a037ae91'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5d0070_YP-C_18maoji-05-0062a
+    span:
+    - body
+    - 0
+    - 1292
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:f1838435f3281ea735c8aabfcd5c660f09291d366004432fd994ac83b5e71e32
